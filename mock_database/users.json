@@ -1,0 +1,18 @@
+[
+    {
+        "_id": {
+            "$oid": "693abac83d9b24286c88ff3b"
+        },
+        "username": "Jon Snow",
+        "email": "asd1234",
+        "password": "asd1234"
+    },
+    {
+        "_id": {
+            "$oid": "693abb055b7a98568bb426e7"
+        },
+        "username": "Gordon Ramsy",
+        "email": "asd1234",
+        "password": "asd1234"
+    }
+]

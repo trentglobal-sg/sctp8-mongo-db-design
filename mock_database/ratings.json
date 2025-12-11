@@ -1,0 +1,9 @@
+[
+    {
+        "_id":{
+            "$oid":"693ac5a39cac0c1c717dd93f"
+        },
+        "user_id":"693abac83d9b24286c88ff3b",
+        "recipe_id":"693abb55f00194a367956948"
+    }
+]

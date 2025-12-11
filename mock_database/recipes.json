@@ -1,0 +1,34 @@
+[
+    {
+        "_id": {
+            "$oid":"693abb55f00194a367956948"
+        },
+        "title":"Chicken Rice",
+        "tags":["chicken","rice","hawker food"],
+        "ingredients":[
+            {
+                "name":"chicken",
+                "amount":"200 grams"
+            },
+            {
+                "name":"rice",
+                "amount":"500 grams"
+            }
+        ],
+        "cuisine": {
+            "_id": {
+                "$oid":"693ab966bc29893866ed08c1"
+            },
+            "name":"Chinese"
+        },
+        "user_id":{
+            "$oid":"693abb055b7a98568bb426e7"
+        },
+        "reviews": [
+            {
+                "$oid":"693abe207e9feb40cce4f8b9",
+                "title":"Not authentic chicken rice"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "_id": {
+            "$oid": "693ab966bc29893866ed08c1"
+        },
+        "name":"Chinese"
+    },
+    {
+        "_id":{
+            "$oid":"693ab987521d80c4e1afc7ac"
+        },
+        "name":"Malay"
+    },
+    {
+        "_id":{
+            "$oid":"693ab9cab7aa032b2310d00e"
+        },
+        "name":"Indian"
+    }
+]
