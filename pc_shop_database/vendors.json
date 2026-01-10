@@ -1,0 +1,16 @@
+[
+    {
+        "_id": {
+            "$oid": "695fa1b1ff324bb73ebab801"
+        },
+        "name": "ASUS",
+        "address": "Tan Seng Street 31 Blk 311 #11-121 S123123"
+    },
+        {
+        "_id": {
+            "$oid": "695fa7b9eb741c1e5cb0214a"
+        },
+        "name": "Intel",
+        "address": "Tan Seng Street 31 Blk 311 #11-121 S123123"
+    }
+]

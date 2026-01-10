@@ -1,0 +1,14 @@
+[
+    {
+        "_id":{
+            "$oid":"695fa82d3c3c5714bc104f6a"
+        },
+        "serialNumber": 100123,
+        "partModel": {
+            "$oid": "695fa228dae24001775c18d6",
+            "name": "5090GTX Graphics Card",
+            "price": 6000
+        }
+
+    }
+]

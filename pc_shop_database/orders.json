@@ -1,0 +1,28 @@
+[
+    {
+        "_id": {
+            "$oid": "695fa90d9bf6024590eb5a11"
+        },
+        "partModels": [
+            {
+                "_id": {
+                    "$oid": "695fa228dae24001775c18d6"
+                },
+                "name": "5090GTX Graphics Card",
+                "price": 6000
+            },
+            {
+                "_id": {
+                    "$oid": "695fa36f6e0dc469a66dcd19"
+                },
+                "name": "Intel CPU"
+            }
+        ],
+        "customer": {
+            "_id": {
+                "$oid": "695f9feba7aab7074c23744e"
+            },
+            "name": "Tan Ah Kow"
+        }
+    }
+]

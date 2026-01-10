@@ -1,0 +1,33 @@
+[
+    {
+        "_id": {
+            "$oid": "695f9feba7aab7074c23744e"
+        },
+        "name":"Tan Ah Kow",
+        "email":"tanahkow2gemail.com",
+        "address":{
+            "country":"Singapore",
+            "province":"Singapore",
+            "streetName":"Yishun Ring Road",
+            "buildingName":"Blk 761",
+            "unit": "01-01",
+            "postalcode":"243761"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "695fa0fba744a5e9a734d6b1"
+        },
+        "name":"John Snow",
+        "email":"jonsnow@asd.com",
+        "address":{
+            "country":"Westeros",
+            "province":"Winterfell",
+            "streetName":"Winterfell Steet",
+            "buildingName":"Blk 761",
+            "unit": "01-01",
+            "postalcode":"243761"
+        }
+    }
+
+]
